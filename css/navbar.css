@@ -1,0 +1,12 @@
+.navbar {
+    background-color: transparent;  
+    font-family: 'Open Sans', sans-serif; 
+    
+  
+    
+}
+
+.bg-dark {
+    background-color: transparent !important;
+    opacity: 0.2;
+}
